@@ -75,6 +75,10 @@ h2{
 	color:red;
 }
 
-.p [
-color:green;
-]
+.p {
+	color:green;
+}
+
+.s {
+	color:white;
+}
