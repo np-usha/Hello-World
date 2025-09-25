@@ -72,9 +72,9 @@ h2{
 }
 
 .t {
-	color:red
+	color:red;
 }
 
-.p {
-	color:black;
-}
+.p [
+color:green;
+]
